@@ -1,0 +1,23 @@
+body {
+  font-size: 16px;
+}
+
+#calc-display {
+  background: gray;
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 10px;
+}
+
+#result {
+  font-size: 1.5rem;
+}
+
+#calc-numbers {
+  border: 2px solid red;
+  padding: 80px;
+  width: 80%;
+  margin: 10px auto;
+}
